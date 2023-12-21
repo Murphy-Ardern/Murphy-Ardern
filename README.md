@@ -1,4 +1,4 @@
-### Hi, I'm Murphy!
+### Hi 👋, I'm Murphy!
 
 <h3>I am a Full-stack Web Developer </h3>
 
@@ -9,10 +9,12 @@
 - 📫 Contact me at murph.ardern@gmail.com
 
 <h3>Languages:</h3>
-- JavaScript
+<li>
+- JavaScript 
 - React.js
 - Node.js
 - Typescript
 - Express
 - HTML
 - CSS
+</li>
