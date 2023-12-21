@@ -9,12 +9,5 @@
 - 📫 Contact me at murph.ardern@gmail.com
 
 <h3>Languages:</h3>
-<li>
-- JavaScript 
-- React.js
-- Node.js
-- Typescript
-- Express
-- HTML
-- CSS
-</li>
+JavaScript - React.js - Node.js - Typescript - Express - HTML - CSS
+
